@@ -1,16 +1,28 @@
-## Hi there 👋
+## 📝 Feel free to contact me. I am always here ...  Github
 
-<!--
-**Kachiipro/kachiipro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I am **Umeoka Onyedikachi**
 
-Here are some ideas to get you started:
+Portfolio🌐
+Software developer | Full-stack | python/django developer | Web developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack  career path, and loves working with cutting edge tools and technologies.
+
+Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. I pay a lot of attention to detail to generate best products.
+
+💻 Languages and Tools: 🛠️
+
+Git GitHub Visual Studio Code HTML5 CSS3  Font Awesome JavaScript jQuery Bootstrap PostgreSQL MySQL 
+
+🧐 Knowledge of:
+
+Responsive web design, DOM, Styled Components,  3rd Party API, Object-Oriented Programming, data structures and algorithms.
+
+🌍 Deployment platforms:
+
+Github PagesGithub Pages Heroku Netlify
+
+📚 Working on:
+
+
+
+
